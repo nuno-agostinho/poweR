@@ -1,0 +1,15 @@
+Package: poweR
+Type: Package
+Title: Creates poweRful things
+Version: 0.1.0
+Authors@R: c(
+        person("Nuno", "Saraiva-Agostinho",
+               email="nunodanielagostinho@gmail.com", role=c("aut", "cre"),
+               comment=c(ORCID="0000-0002-5549-105X")),
+        person(c("Nuno", "Luís"), "Barbosa-Morais", role=c("aut", "led", "ths"),
+               comment=c(ORCID="0000-0002-1215-0538")))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
