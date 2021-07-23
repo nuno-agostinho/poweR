@@ -2,6 +2,7 @@
 # poweR
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/nuno-agostinho/poweR/workflows/R-CMD-check/badge.svg)](https://github.com/nuno-agostinho/poweR/actions)
 <!-- badges: end -->
 
 The goal of poweR is to be powerful.
