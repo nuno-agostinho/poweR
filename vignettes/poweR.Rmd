@@ -1,0 +1,18 @@
+---
+title: "How to use poweR"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{poweR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+This is how you use poweR:
+
+```{r setup}
+library(poweR)
+square(3)
+cube(6)
+```
+
+And that's it!
