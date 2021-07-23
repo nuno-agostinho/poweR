@@ -10,5 +10,5 @@
 #' @examples
 #' cube(5)
 cube <- function(x) {
-  x ** 3
+  power(x, 3)
 }

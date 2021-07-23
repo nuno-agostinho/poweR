@@ -10,5 +10,5 @@
 #' @examples
 #' square(5)
 square <- function(x) {
-  x ** 2
+  power(x, 2)
 }
