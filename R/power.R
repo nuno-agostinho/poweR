@@ -7,7 +7,7 @@
 #' @keywords internal
 #'
 #' @examples
-#' power(3, 2)
+#' poweR:::power(3, 2)
 power <- function(x, p) {
   x ** p
 }
