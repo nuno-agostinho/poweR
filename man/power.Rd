@@ -20,3 +20,4 @@ Calculate the \strong{power} \code{p} of a number \code{x}
 \examples{
 power(3, 2)
 }
+\keyword{internal}
